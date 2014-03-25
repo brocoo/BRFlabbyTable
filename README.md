@@ -55,6 +55,8 @@ Notes
 -----
 `BRFlabbyTableViewCell` and its subclasses work with the Interface Builder and Autolayout.
 
+The Android version developed by [jpardogo](https://github.com/jpardogo) is available at [FlabbyListView](https://github.com/jpardogo/FlabbyListView)
+
 Developed By
 ----
 
