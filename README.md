@@ -1,7 +1,7 @@
 BRFlabbyTable
 =============
 
-BRFlabbyTable is a set of classes that allow you to add a bouncy and distortion effect on a cell frame while the table is scrolling. The "flabbiness" of the cells is based on the speed of scrolling.
+BRFlabbyTable is a set of classes that allow you to add a bouncy and distorted effect on a cell frame while the table is scrolling. The "flabbiness" of the cells is based on the speed of scrolling.
 
 Upon pressing and dragging, the highlighted cell grows around the touch area.
 
