@@ -5,6 +5,10 @@ BRFlabbyTable is a set of classes that allow you to add a bouncy and distorted e
 
 Upon pressing and dragging, the highlighted cell grows around the touch area.
 
+See BRFlabbyTable in action on Vimeo [here](https://vimeo.com/90079010) and [here](https://vimeo.com/90078782).
+
+
+
 ![http://i.imgur.com/Fl90rLm.png](http://i.imgur.com/Fl90rLm.png)
 ![http://i.imgur.com/0KhUhMN.png](http://i.imgur.com/0KhUhMN.png)
 
