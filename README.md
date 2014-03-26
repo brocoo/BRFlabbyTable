@@ -11,6 +11,11 @@ Upon pressing and dragging, the highlighted cell grows around the touch area.
 Usage
 -----
 
+BRFlabbyTable is available via [Cocoapods](http://cocoapods.org/), add this line in your podfile :
+  ```
+  pod 'BRFlabbyTable', '~> 1.0'
+  ```
+
 1.  Import the classes into your view controller:
 
   ```objective-c
@@ -62,9 +67,9 @@ Developed By
 
 Julien Ducret - <brocoo@gmail.com>
 
-Follow me on Twitter ([@jbrocoo](https://twitter.com/jbrocoo))
+Follow me on Twitter [@jbrocoo](https://twitter.com/jbrocoo)
 
-Check out my app, Spores! ([AppStore](https://itunes.apple.com/us/app/spores/id718495353?l=fr&ls=1&mt=8))
+Check out my app, [Spores](https://itunes.apple.com/us/app/spores/id718495353?l=fr&ls=1&mt=8)
 
 
 Licence
