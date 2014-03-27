@@ -73,7 +73,7 @@ Julien Ducret - <brocoo@gmail.com>
 
 Follow me on Twitter [@jbrocoo](https://twitter.com/jbrocoo)
 
-Check out my app, [Spores](https://itunes.apple.com/us/app/spores/id718495353?l=fr&ls=1&mt=8)
+Check out my app: [Spores](https://itunes.apple.com/us/app/spores/id718495353?l=fr&ls=1&mt=8)
 
 
 Licence
