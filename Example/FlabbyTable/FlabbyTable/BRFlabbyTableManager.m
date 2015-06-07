@@ -155,7 +155,7 @@ static NSString *flabbyKeyPath = @"contentOffset";
             CGPoint newOffset = [[change objectForKey:NSKeyValueChangeNewKey] CGPointValue];
             CGPoint oldOffset = [[change objectForKey:NSKeyValueChangeOldKey] CGPointValue];
             CGFloat verticalVelocity =  oldOffset.y - newOffset.y;
-            if (fabsf(verticalVelocity - _previousVerticalVelocity)>CGFLOAT_MIN) {
+            if (fabs(verticalVelocity - _previousVerticalVelocity)>CGFLOAT_MIN) {
                 if (verticalVelocity/newOffset.y > 1.05 || verticalVelocity/newOffset.y < 0.95) {
                     BOOL didScrollToTop = newOffset.y == -_tableView.contentInset.top;
                     if (didScrollToTop) {
