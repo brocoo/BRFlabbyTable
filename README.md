@@ -15,7 +15,7 @@ See BRFlabbyTable in action on Vimeo [here](https://vimeo.com/90079010) and [her
 Usage
 -----
 
-BRFlabbyTable is available via [Cocoapods](http://cocoapods.org/), add this line in your podfile :
+BRFlabbyTable is available via [CocoaPods](http://cocoapods.org/), add this line in your podfile :
   ```
   pod 'BRFlabbyTable', '~> 1.0'
   ```
